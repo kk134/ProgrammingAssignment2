@@ -2,7 +2,7 @@
 ## the cached result will be returned. Otherwise, the inverse will be calculated
 ## and the result will be cached.
 
-## makeCacheMatrix is a list of contain function to
+### makeCacheMatrix is a list of function to
 ### set the value of the matrix,
 ### get the value of the matrix,
 ### set the value of the inverse matrix,
